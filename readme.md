@@ -10,7 +10,6 @@
 printf(%22hello%2C%20world\n%22)%3B;I'm MMMa!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/MMMayongtian/MMMayongtian/assets/images/coding.gif" /><br>
 
