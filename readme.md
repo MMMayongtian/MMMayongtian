@@ -31,7 +31,7 @@ printf(%22hello%2C%20world\n%22)%3B;I'm MMMa!&center=true&size=27" alt="Typing S
 
 **Preview**：From NKU, Tianjin 🏝, love coding :computer:. A student 🏫
 
-**Blog**：[My Page](https://mmmayongtian.github.iom/wanwan/)
+**Blog**：[My Page](https://mmmayongtian.github.io/wanwan/)
 
 **Contact**：298985343@qq.com
 
