@@ -52,7 +52,7 @@ printf(%22hello%2C%20world\n%22)%3B;I'm MMMa!&center=true&size=27" alt="Typing S
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<a href="https://github.com/mmmayongtian"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mmmayongtian&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="MMMa's github stats" /></a> 
+<a href="https://github.com/mmmayongtian/mwanwan/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mmmayongtian&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="MMMa's github stats" /></a> 
 
 <a href="https://github.com/mmmayongtian"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmayongtian&layout=compact&theme=vue&hide_border=true" /></a>
 
