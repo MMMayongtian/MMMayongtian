@@ -8,6 +8,7 @@
     <a href="https://github.com/MMMayongtian">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=	
 printf(%22hello%2C%20world\n%22)%3B;I'm MMMa!&center=true&size=27" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&size=27&pause=1000&center=true&vCenter=true&width=435&lines=printf(%22hello%2Cworld%5Cn%22)%3B;I'm+MMMa!" alt="Typing SVG" /></a>
     </a>
   </div>
   <!-- knock code pictures 敲代码的图片 -->
